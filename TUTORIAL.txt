@@ -1,0 +1,18 @@
+LET'S START!
+
+Portugues:
+
+1 - É necessario baixar os softwares XAMPP e PyCharm e instalar.
+2 - No XAMPP, clique nos botões START de Apache e MySQL até ficarem verdes.
+3 - Clique em ADMIN ao lado de MySQL e inicie a pagina MySQL.
+4 - Abra o codigo de createDB na pasta e execute para criar banco de dados e tabela com colunas.
+5 - Por ultimo execute o main na pasta de projeto para iniciar o sistema de banco.
+
+
+English:
+
+1 - It is necessary to download the XAMPP and PyCharm software and install it.
+2 - In XAMPP, click the Apache and MySQL START buttons until they turn green.
+3 - Click ADMIN beside MySQL and start MySQL browser.
+4 - Open the createDB code in the folder and run it to create a database and table with columns.
+5 - Finally run the main in the project folder to start the database system.
